@@ -1,4 +1,5 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> , I'm Dhrupad Pandya
+<img  src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi..!+I+am+Dhrupad Pandya" width="100%">
+
 This is the place where I opensource stuff and break things :rofl:
 
 
