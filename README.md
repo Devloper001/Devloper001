@@ -1,4 +1,4 @@
-<img  src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Hi..!+I+am+Dhrupad Pandya" width="100%">
+<img  src="https://readme-typing-svg.herokuapp.com?color=0000000&lines=Hi..!+I+am+Dhrupad Pandya" width="100%">
 
 This is the place where I opensource stuff and break things :rofl:
 
