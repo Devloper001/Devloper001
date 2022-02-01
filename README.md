@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭  I’m currently working on something cool :wink:
 - 🌱  I’m currently learning Javascript,Reactjs
 - 💬  Ask me about anything related to Javascript/Typescript/Python 
-- 📫  How to reach me: [@dhrupadpandya](https://twitter.com/dhrupadpandya) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 📫  How to reach me: [@dhrupadpandya](https://twitter.com/dhrupadpandya) 
 - 👨‍💻  Read more about my projects at [https://dhrupadpandya.netlify.app/](https://dhrupadpandya.netlify.app/)
 - ⚡  Fun fact: 
 
