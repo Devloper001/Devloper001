@@ -33,3 +33,6 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer001" alt="developer001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhrupadpandya" target="blank"><img src="https://img.shields.io/twitter/follow/dhrupadpandya?logo=twitter&style=for-the-badge" alt="dhrupadpandya" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer001&show_icons=true&locale=en" alt="developer001" /></p>
+
