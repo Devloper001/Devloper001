@@ -1,7 +1,7 @@
 <img  src="https://readme-typing-svg.herokuapp.com?color=7C3BED&lines=Hi..!+I+am+Dhrupad+Pandya" width="100%">
 
 
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I opensource stuff and break things 
 
 
  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
