@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭  I’m currently working on something cool :wink:
 - 🌱  I’m currently learning Javascript,Reactjs
 - 💬  Ask me about anything related to Javascript/Typescript/Python 
-- 📫  How to reach me: [@dhrupadpandya](https://twitter.com/dhrupadpandya) 
+- 📫  How to reach me: [@dhrupadpandya](https://twitter.com/isthisdhrupad) 
 - 👨‍💻  Read more about my projects at [https://dhrupadpandya.netlify.app/](https://dhrupadpandya.netlify.app/)
 - ⚡  Fun fact: 
 
@@ -23,7 +23,7 @@ This is the place where I opensource stuff and break things :rofl:
 <p align="left">
 <a href="https://twitter.com/isthisdhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhrupadpandya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhrupad-pandya-b7a171226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhrupad-pandya-b7a171226" height="30" width="40" /></a>
-<a href="https://instagram.com/dhrupadpandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhrupadpandya" height="30" width="40" /></a>
+<a href="https://instagram.com/isthisdhrupad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhrupadpandya" height="30" width="40" /></a>
 </p>
 
 
@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer001" alt="developer001" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dhrupadpandya" target="blank"><img src="https://img.shields.io/twitter/follow/dhrupadpandya?logo=twitter&style=for-the-badge" alt="dhrupadpandya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/isthisdhrupad" target="blank"><img src="https://img.shields.io/twitter/follow/dhrupadpandya?logo=twitter&style=for-the-badge" alt="dhrupadpandya" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer001&show_icons=true&locale=en" alt="developer001" /></p>
 
