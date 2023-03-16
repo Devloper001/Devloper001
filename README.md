@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things
 - 🔭  I’m currently working on something cool :wink:
 - 🌱  I’m currently learning Javascript,Reactjs
 - 💬  Ask me about anything related to Javascript/Typescript/Python 
-- 📫  How to reach me: [@dhrupadpandya](https://twitter.com/isthisdhrupad) 
+- 📫  How to reach me: [@isthisdhrupad](https://twitter.com/isthisdhrupad) 
 - 👨‍💻  Read more about my projects at [https://dhrupadpandya.netlify.app/](https://dhrupadpandya.netlify.app/)
 - ⚡  Fun fact: 
 
